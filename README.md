@@ -1,4 +1,4 @@
-# Farmacia San Blas Ecommerce.
+# Farmacia San Blas Ecommerce
 
 Responsive Ecommerce website
 An online store for a pharmacy developed with HTML, CSS, MySQL and PHP.
