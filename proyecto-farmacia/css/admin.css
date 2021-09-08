@@ -1,0 +1,166 @@
+body {
+  font-family: Montserrat, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.body {
+  font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+  position: static;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  min-width: 100%;
+  background-color: #fff;
+}
+
+.admin-navlinks {
+  top: 18px;
+  padding-bottom: 11px;
+  font-size: 16px;
+}
+
+.admin-navlinks.btn-nav {
+  left: 10px;
+  top: 25px;
+  padding-top: 11px;
+  padding-left: 26px;
+  border-radius: 20px;
+  background-color: #77b0ff;
+  color: #fff;
+}
+
+.image {
+  padding-top: 5px;
+}
+
+.admin-container {
+  background-color: #fff;
+}
+
+.nav-link {
+  background-color: #fff;
+}
+
+.error {
+  text-align: center;
+  }
+  
+.section {
+  position: relative;
+  top: 60px;
+}
+
+.heading {
+  text-align: center;
+}
+
+
+.button {
+  background-color: #77b0ff;
+}
+
+.btn {
+  margin-right: auto;
+  margin-left: 40%;
+  margin-top: 4%;
+  width: 15%;
+  border-radius: 20px;
+  padding-left: 43px;
+  padding-top: 21px;
+  padding-bottom: 17px;
+  font-size: 16px;
+  padding-right: 7px;
+}
+.btn-logout{
+  width: 44%;
+  margin-left: 21%;
+}
+
+@media screen and (max-width: 991px) {
+  .label-text-div {
+    padding-left: 20vw;
+  }
+
+  .textbox {
+    width: 40%;
+  }
+
+  .submit-button-3 {
+    margin-left: 276px;
+  }
+  .btn {
+    margin-left: 29%;
+    width: 31%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .field-label {
+    margin-right: 25px;
+    margin-left: 32px;
+  }
+
+  .label-text-div {
+    padding-left: 8vw;
+  }
+
+  .textbox {
+    width: 45%;
+  }
+
+  .submit-button-3 {
+    margin-left: 183px;
+  }
+  .btn {
+    margin-left: 29%;
+    width: 31%;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .menu-button {
+    background-color: #fff;
+    color: #77b0ff;
+  }
+
+  .icon {
+    background-color: transparent;
+  }
+
+  .field-label {
+    margin-right: 0px;
+    margin-left: 46px;
+  }
+
+  .label-text-div {
+    margin-bottom: 20px;
+    padding-left: 0vw;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .textbox {
+    width: 75%;
+    margin-top: 12px;
+    margin-left: 38px;
+  }
+
+  .submit-button-3 {
+    margin-left: 80px;
+  }
+  .btn {
+  margin-left: 29%;
+  width: 31%;
+}
+}
+
+
