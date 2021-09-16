@@ -1,6 +1,7 @@
 # Farmacia San Blas Ecommerce
 
 Responsive Ecommerce website
+<br/>
 An online store for a pharmacy developed with HTML, CSS, MySQL and PHP.
 There is two types of users: the administrator and the customer. 
 Pages for the custumer: Home, Products, Shopping Cart, Login, Account. 
